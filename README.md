@@ -59,6 +59,7 @@ Looking for a motivated webDev? Visit us on LinkedIn:
       </a>
     </td>
     <td align="center">
+      <a href="https://github.com/Latifahal">
         <div>
           <img src="./assets/team/Latifah.jpg" height="150" alt="Doppler">
         </div>
